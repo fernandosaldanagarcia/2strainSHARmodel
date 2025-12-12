@@ -1,10 +1,10 @@
-# Two-Strain SHAR Model: Code and Analysis
+====================
 
 This repository contains code used in the following paper:
 
 **Saldaña, F., Stollenwerk, N., & Aguiar, M. (2024).** Modelling COVID-19 mutant dynamics: understanding the interplay between viral evolution and disease transmission dynamics. *Royal Society Open Science*, 11(10), 240919.
 
----
+====================
 
 ## System Requirements
 
